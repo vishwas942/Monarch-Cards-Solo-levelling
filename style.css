@@ -24,7 +24,7 @@ body{
     border-radius: 50px;
     flex: 0.5;
     position: relative;
-    transition: 2s;
+    transition: 1s;
     cursor: pointer;
     color: white;
     filter: brightness(0.4) grayscale(0.8);
